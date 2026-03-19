@@ -25,10 +25,8 @@
 
 # 🔧 Git
 
-- Git 基本工作流
-- Git 分支管理
-- Git rebase
 - Git 常见问题
+- Git 基本工作流
 
 ---
 
