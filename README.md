@@ -22,10 +22,9 @@
 ├── 00_index
 ├── 01_python_learning
 ├── 02_technology_stack
-├── 03_robotics
+├── 03_robotics_related
 ├── 04_project_practice
-├── 05_interview_and_summary
-└── 99_cheatsheet
+└── 05_interview_and_summary
 ```
 
 ---
@@ -56,7 +55,7 @@
 
 ## 机器人技术
 
-目录：`03_robotics`
+目录：`03_robotics_related`
 
 * ros1
 * ros2
@@ -86,18 +85,6 @@
 
 ---
 
-## 速查手册
-
-目录：`99_cheatsheet`
-
-* linux
-* git
-* python
-* tmux
-* docker
-
----
-
 # 仓库用途
 
 * 记录学习笔记
@@ -123,7 +110,7 @@ AI / 机器人策略
 
 Git
 Linux
-VS Code
+Cursor
 
 ---
 
