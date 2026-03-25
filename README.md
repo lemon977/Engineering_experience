@@ -23,8 +23,7 @@
 ├── 01_python_learning
 ├── 02_technology_stack
 ├── 03_robotics_related
-├── 04_project_practice
-└── 05_interview_and_summary
+└── 04_interview_and_summary
 ```
 
 ---
@@ -65,19 +64,9 @@
 
 ---
 
-## 项目实践
-
-目录：`04_project_practice`
-
-* 项目代码
-* 技术文档
-* 项目总结
-
----
-
 ## 面试与总结
 
-目录：`05_interview_and_summary`
+目录：`04_interview_and_summary`
 
 * interview_notes
 * work_reflection
