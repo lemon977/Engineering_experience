@@ -36,6 +36,8 @@ conda remove -n robot --all
 conda env export > environment.yml
 根据配置文件创建环境
 conda env create -f environment.yml
+conda只能克隆环境达到改名
+conda create -n 新名字 --clone 旧名字
 
  说明
 ---
