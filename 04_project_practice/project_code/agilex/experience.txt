@@ -1,1 +1,0 @@
-agilex_inference_openpi_rtc为推理脚本，collect_data为采集脚本，replay为重播脚本

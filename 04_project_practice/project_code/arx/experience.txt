@@ -1,1 +1,0 @@
-arx_openpi_inference为推理脚本，collect_data_ros2_noimg为采集脚本，replay为重播脚本
